@@ -1,0 +1,81 @@
+
+   body {
+    font-family: 'Julius Sans One', sans-serif;
+        }
+        .navbar {
+            background-color: white;
+        }
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .navbar-nav .nav-link {
+            color: black;
+            font-size: 16px;
+        }
+        .search-bar {
+            width: 200px;
+        }
+        .hero-section {
+            background: linear-gradient(to right, #000000, #808080);
+            color: white;
+            padding: 0px 0;
+            text-align: center;
+        }
+        .hero-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .hero-text {
+            color: black;
+            text-align: left;
+        }
+        .hero-text h1 {
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .hero-text p {
+            font-size: 18px;
+        }
+        .btn-shop {
+            background-color: #808080;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        .bracelet-section {
+            background-color: black;
+            color: white;
+            padding: 50px 0;
+        }
+        .bracelet-section h2 {
+            font-size: 36px;
+            font-weight: bold;
+            text-align: left;
+        }
+        .bracelet-section .btn {
+            background-color: #808080;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            text-align: left;
+        }
+        .bracelet-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+            color: #6c757d;
+        }
+        .footer .social-icons a {
+            color: #6c757d;
+            margin: 0 10px;
+            font-size: 24px;
+        }
+        
